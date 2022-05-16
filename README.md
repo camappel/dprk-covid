@@ -11,7 +11,7 @@ The daily and cumulative number of tests is available in '[tests.csv](https://gi
 According to a WHO [report](https://cdn.who.int/media/docs/default-source/searo/whe/coronavirus19/sear-weekly-reports/searo-weekly-situation-report-35-2021.pdf?sfvrsn=6126c5b_5) from 2021-09-10, patients are 'tested with reverse transcription polymerase chain reaction (RT-PCR)
 at an interval of 10 days'. COVID-19 tests have been performed within the country since 2020-04-07.
 
-The estimated daily number of tests is calculated by dividing the change in samples/people tested reported by NK News by the number of days since the last update. Based on this calculation, testing capacity within the country appears to be about 100 people per day.
+The estimated daily number of tests is calculated by dividing the change in samples/people tested by the number of days since the last report. Based on this calculation, testing capacity within the country appears to be about 100 people per day.
 
 
 **Suspected cases**.
